@@ -6,13 +6,9 @@ import automateBannerSketch from './img/automate_banner.jpg';
 import automateBannerImage from './img/automate_banner2.png';
 import Fold from './components/fold';
 import GameSection from './components/game-section';
+import CallToAction from './components/call-to-action';
 
 function App() {
-  const rest = `      
-<div className='call-to-action'>
-  call to action
-</div>`;
-
   return (
     <div className='App'>
       <div className='nav-bar'>
@@ -20,6 +16,7 @@ function App() {
       </div>
       <Fold/>
       <GameSection/>
+      <CallToAction/>
     </div>
   );
 }
