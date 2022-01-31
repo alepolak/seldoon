@@ -1,0 +1,100 @@
+@font-face 
+{
+        font-family: "Pmp";
+        src: url("./pmp.ttf");
+        src: url("./pmp.otf");
+        font-weight: normal;
+        font-style: normal;
+}
+
+.pmp {
+        font-family: 'Pmp';
+        font-weight:normal;
+        font-style:normal;
+}
+
+.pmp-title {
+        font-family: 'Pmp';
+        text-align: center;
+        font-size: 10rem;
+        margin: 0em;
+        color: white;
+        font-weight:normal;
+        font-style:normal;
+}
+
+
+[class^="pmp-"]:before, [class*=" pmp-"]:before,
+[class^="pmp-"]:after, [class*=" pmp-"]:after 
+{   
+        font-family: Pmp;
+                font-size: 20px;
+        font-style: normal;
+        margin-left: 20px;
+}
+
+@font-face 
+{
+        font-family: "dosis_semibold";
+        src: url("./dosis_semibold.ttf");
+        font-weight: normal;
+        font-style: normal;
+}
+
+.dosis_semibold {
+        font-family: 'dosis_semibold';
+        font-weight:normal;
+        font-style:normal;
+}
+
+.dosis_semibold-title {
+        font-family: 'dosis_semibold';
+        text-align: center;
+        font-size: 10rem;
+        margin: 0em;
+        color: white;
+        font-weight:normal;
+        font-style:normal;
+}
+
+[class^="dosis_semibold-"]:before, [class*=" dosis_semibold-"]:before,
+[class^="dosis_semibold-"]:after, [class*=" dosis_semibold-"]:after 
+{   
+        font-family: dosis_semibold;
+        font-size: 20px;
+        font-style: normal;
+        margin-left: 20px;
+}
+
+@font-face 
+{
+        font-family: "dosis_book";
+        src: url("./dosis_book.ttf");
+        font-weight: normal;
+        font-style: normal;
+}
+
+.dosis_book {
+        font-family: 'dosis_book';
+        font-weight:normal;
+        font-style:normal;
+}
+
+.dosis_book-title {
+        font-family: 'dosis_book';
+        text-align: center;
+        font-size: 10rem;
+        margin: 0em;
+        color: white;
+        font-weight:normal;
+        font-style:normal;
+}
+
+[class^="dosis_book-"]:before, [class*=" dosis_book-"]:before,
+[class^="dosis_book-"]:after, [class*=" dosis_book-"]:after 
+{   
+        font-family: dosis_book;
+        font-size: 20px;
+        font-style: normal;
+        margin-left: 20px;
+}

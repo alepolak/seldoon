@@ -1,0 +1,75 @@
+.game-section {
+    width: 100%;
+    height: 60rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.game-card {
+    width: 80%;
+    margin-top: 10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items:  flex-start;
+    z-index: 1;
+    outline: 1px solid goldenrod;
+}
+
+.game-data-container {
+    width: 25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:  center;
+    z-index: 2;
+    outline: 1px solid blueviolet;
+}
+ 
+.game-data {
+    font-family: pmp;
+    width: 25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    outline: 1px solid red;
+}
+
+.game-logo {
+    width: 20rem;
+    outline: 1px solid red;
+}
+
+.subtitle {
+    font-size: 2rem;
+    width: 25rem;
+    text-align: center;
+    outline: 1px solid red;
+}
+
+.game-background {
+    position: absolute;
+    width: 100%;
+    height: 115rem;
+    background: url('.././img/automate_banner.png');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center;
+    margin-top: -35%;
+}
+
+@media only screen and (max-width: 1026px) {
+    .game-background {
+        position: absolute;
+        min-width: 40rem;
+        height: 100rem;
+        background: url('.././img/automate_banner_2.png');
+        background-repeat: no-repeat;
+        background-size: cover; 
+        background-position: center;
+        margin-top: -25%;
+    }
+}
