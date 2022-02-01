@@ -14,7 +14,7 @@ const CallToAction = () => {
                     </p>
                     <form className='newsletter-subscribe'>
                         <input className='newsletter-input' type="text" name="name" />
-                        <input className='newsletter-button' type="submit" value="Submit" />
+                        <input className='newsletter-button' type="submit" value="SUBMIT" />
                     </form>
                 </div>
                 <div className='presskit'>
