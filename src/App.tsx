@@ -7,6 +7,8 @@ import automateBannerImage from './img/automate_banner2.png';
 import Fold from './components/fold';
 import GameSection from './components/game-section';
 import CallToAction from './components/call-to-action';
+import Gameplay from './components/gameplay';
+import YoutubeVideo from './components/youtube-video';
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
       </div>
       <Fold/>
       <GameSection/>
+      <YoutubeVideo embedId="TbkSHt7nPF8" />
+      <Gameplay/>
       <CallToAction/>
     </div>
   );

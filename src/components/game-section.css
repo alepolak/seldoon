@@ -53,9 +53,6 @@
     background-repeat: no-repeat;
     background-size: cover; 
     background-position: center;
-    border-bottom-right-radius: 2rem;
-    border-bottom-left-radius: 2rem;
-    box-shadow: 0 10px 10px #34343455;
 }
 
 @media only screen and (max-width: 560px) {
@@ -76,9 +73,6 @@
         background-repeat: no-repeat;
         background-size: cover; 
         background-position: center;
-        border-bottom-right-radius: 2rem;
-        border-bottom-left-radius: 2rem;
-        box-shadow: 0 10px 10px #34343455;
     }
 
     .game-card {
