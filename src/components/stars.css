@@ -12,14 +12,14 @@
     position: absolute;
     top: 4rem; 
     width: 100%;
-    height: 52rem;
+    height: 60rem;
     display: block;
 }
 
 .stars {
     background: black url('.././img/stars.png') repeat top center;
     z-index: 1;
-    animation: move-stars-back 500s linear infinite;
+    animation: move-stars-back 300s linear infinite;
 }
 
 .twinkling {
