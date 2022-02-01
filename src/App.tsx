@@ -9,6 +9,7 @@ import GameSection from './components/game-section';
 import CallToAction from './components/call-to-action';
 import Gameplay from './components/gameplay';
 import YoutubeVideo from './components/youtube-video';
+import Social from './components/social';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <Fold/>
       <GameSection/>
       <YoutubeVideo embedId="TbkSHt7nPF8" />
+      <Social/>
       <Gameplay/>
       <CallToAction/>
     </div>
