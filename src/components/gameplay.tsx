@@ -15,22 +15,6 @@ const Gameplay = () => {
                     <source src="https://thumbs.gfycat.com/WillingSickHylaeosaurus-mobile.mp4" type="video/mp4"/>
                 </video>
             </div>
-            <ScrollContainer className="scroll-container"
-                vertical={false}
-                horizontal={true}
-                hideScrollbars={true}
-                nativeMobileScroll={true}
-            >
-                <img src={img1} alt='menu screenshot' className='screenshot'/>
-                <img src={img1} alt='menu screenshot' className='screenshot'/>
-                <img src={img1} alt='menu screenshot' className='screenshot'/>
-                <img src={img1} alt='menu screenshot' className='screenshot'/>
-                <img src={img1} alt='menu screenshot' className='screenshot'/>
-                <img src={img1} alt='menu screenshot' className='screenshot'/>
-                <img src={img1} alt='menu screenshot' className='screenshot'/>
-                <img src={img1} alt='menu screenshot' className='screenshot'/>
-                <img src={img1} alt='menu screenshot' className='screenshot'/>
-            </ScrollContainer>
         </div>
     );
 }
