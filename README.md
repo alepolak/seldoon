@@ -1,6 +1,6 @@
 # ToDo
 
-[ ] Add links to social.
+[X] Add links to social.
 [ ] Add Check our Game functionality.
 [ ] Optimization of images.
 [ ] Check components for improvements.
