@@ -1,0 +1,5 @@
+.automate-character {
+    min-width: 17rem;
+    max-width: 30rem;
+    outline: 1px solid red;
+}

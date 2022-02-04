@@ -1,28 +1,17 @@
 .gameplay {
     width: 100%;
-    height: 60rem;
-    border-bottom-right-radius: 2rem;
-    border-bottom-left-radius: 2rem;
+    height: 50rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
     box-shadow: 0 10px 10px #34343455;
-
-    outline: 1px solid red;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
 }
 
-.automate-character {
-    min-width: 17rem;
-    max-width: 30rem;
-    outline: 1px solid red;
-}
 
-.automate-character video {
-    width: 100%;
-    outline: 1px solid red;
-}
+@media only screen and (max-width: 560px) {
 
-.scroll-container {
-    overflow: hidden;
-}
-
-.screenshot {
-    
 }
