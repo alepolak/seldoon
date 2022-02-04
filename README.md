@@ -4,7 +4,7 @@
 [X] Add Check our Game functionality.
 [X] Optimization of images.
 [X] Check images quality.
-[ ] Add images size.
+[X] Add images size.
     - social icons
     - automate logo
     - seldoon logo
