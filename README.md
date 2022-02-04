@@ -1,7 +1,7 @@
 # ToDo
 
 [X] Add links to social.
-[ ] Add Check our Game functionality.
+[X] Add Check our Game functionality.
 [ ] Optimization of images.
 [ ] Check images quality.
 [ ] Add images size.
