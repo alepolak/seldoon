@@ -1,11 +1,10 @@
 import React from 'react';
-
 import './game-section.css';
 import automateLogo from '.././img/automate_logo.webp';
 
 const GameSection = () => {
     return(
-    <div className='game-section'>
+    <div id="gameSection" className='game-section'>
         <div className='game-card' id='product-in-action'>
             <div className='game-data-container'>
                 <div className='game-data'>

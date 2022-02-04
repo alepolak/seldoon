@@ -3,14 +3,14 @@
 [X] Add links to social.
 [ ] Add Check our Game functionality.
 [ ] Optimization of images.
-[ ] Check components for improvements.
-[ ] Presskit functionality.
-[ ] Newsletter functionality.
 [ ] Check images quality.
 [ ] Add images size.
     - social icons
     - automate logo
     - seldoon logo
+[ ] Check components for improvements.
+[ ] Presskit functionality.
+[ ] Newsletter functionality.
 [ ] Add label to input.
 [ ] Remove unnecesary fonts or move them to the end.
 [ ] Add preconnect (?) or dns-prefetch to:
@@ -21,4 +21,5 @@
 [ ] Font-display
 [ ] Pages scroll listener to pasive.
 [ ] Add rel="noreferrer" to external link
+[ ] Add Navbar
 [ ] Add link to the store before trailer

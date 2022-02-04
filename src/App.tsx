@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useRef } from 'react';
 import './App.css';
 import './fonts/fonts.css';
 
@@ -10,6 +10,9 @@ import YoutubeVideo from './components/youtube-video';
 import Social from './components/social';
 
 function App() {
+
+  const gameSectionRef = useRef<React.RefObject<HTMLDivElement> | null>(null);
+
   return (
     <div className='App'>
       <div className='nav-bar'>

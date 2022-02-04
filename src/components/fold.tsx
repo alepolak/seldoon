@@ -3,7 +3,6 @@ import './fold.css';
 import seldoonLogoWhite from '.././img/seldoon_logo_white.webp';
 import Stars from './stars';
 
-
 const Fold = () => {
     return (
         <div className='fold'>
@@ -13,7 +12,7 @@ const Fold = () => {
                 <img className='logo' src={seldoonLogoWhite} alt='Seldoon logo'/>
                 <h1> SELDOON</h1>
             </header>
-            <a className='headline-button-link' href="product-in-action">
+            <a className='headline-button-link' href="#gameSection">
                 <button className='headline-button' type="button"><b>Check our game !</b></button>
             </a>
             </div>
