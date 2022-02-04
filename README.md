@@ -8,7 +8,7 @@
     - social icons
     - automate logo
     - seldoon logo
-[ ] Presskit functionality.
+[X] Presskit functionality.
 [ ] Newsletter functionality.
 [ ] Add label to input.
 [X] Remove unnecesary fonts or move them to the end.

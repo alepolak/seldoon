@@ -2,6 +2,8 @@ import React from 'react';
 import './call-to-action.css';
 
 const CallToAction = () => {
+
+    const presskitFilePath = '/presskit/presskit.7z';
     return (
         <div className='section'>
             <h1> Keep in touch </h1>
@@ -24,7 +26,7 @@ const CallToAction = () => {
                         <strong>Download the presskit.</strong>It has everything you need about the studio and the games. 
                     </p>
                     <div className='presskit-button'>
-                        <a href="../presskit/presskit.7z" download>
+                        <a href={presskitFilePath} download>
                             <button className='presskit-download-button'> DOWNLOAD SELDOON PRESSKIT </button>
                         </a>
                     </div>   
