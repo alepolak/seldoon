@@ -24,7 +24,9 @@ const CallToAction = () => {
                         <strong>Download the presskit.</strong>It has everything you need about the studio and the games. 
                     </p>
                     <div className='presskit-button'>
-                        <button className='presskit-download-button'> DOWNLOAD SELDOON PRESSKIT </button>
+                        <a href="../presskit/presskit.7z" download>
+                            <button className='presskit-download-button'> DOWNLOAD SELDOON PRESSKIT </button>
+                        </a>
                     </div>   
                 </div>
             </div>
