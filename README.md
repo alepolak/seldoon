@@ -2,8 +2,8 @@
 
 [X] Add links to social.
 [X] Add Check our Game functionality.
-[ ] Optimization of images.
-[ ] Check images quality.
+[X] Optimization of images.
+[X] Check images quality.
 [ ] Add images size.
     - social icons
     - automate logo
