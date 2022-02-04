@@ -9,20 +9,20 @@ import twitterIcon from '../img/twitter_icon.png';
 const Social = () => {
     return (
         <div className='social'> 
-            <a href="https://www.instagram.com/ustwogames/" target="_blank">
-                <img className="social-icon" src={mailIcon}/>
+            <a href="mailto:alexispolak@gmail.com" target="_blank">
+                <img className="social-icon" src={mailIcon} alt='mail icon'/>
             </a>
-            <a href="https://www.instagram.com/ustwogames/" target="_blank">
-                <img className="social-icon" src={twitterIcon}/>
+            <a href="https://www.twitter.com/alexispolak/" target="_blank">
+                <img className="social-icon" src={twitterIcon} alt='twitter icon'/>
             </a>
-            <a href="https://www.instagram.com/ustwogames/" target="_blank">
-                <img className="social-icon" src={instagramIcon}/>
+            <a href="https://www.instagram.com/alexispolak/" target="_blank">
+                <img className="social-icon" src={instagramIcon} alt='instagram icon'/>
             </a>
-            <a href="https://www.instagram.com/ustwogames/" target="_blank">
-                <img className="social-icon" src={youtubeIcon}/>
+            <a href="https://www.youtube.com/alexispolak/" target="_blank">
+                <img className="social-icon" src={youtubeIcon} alt='youtube icon'/>
             </a>
-            <a href="https://www.instagram.com/ustwogames/" target="_blank">
-                <img className="social-icon" src={tiktokIcon}/>
+            <a href="https://www.tiktok.com/alexispolak/" target="_blank">
+                <img className="social-icon" src={tiktokIcon} alt='tiktok icon'/>
             </a>
         </div>
     );

@@ -17,31 +17,31 @@ const Carousel = () => {
             <div className="slider">
                 <div className="slides">
                     <div id="slide-1">
-                        <img src={image0}/>
+                        <img src={image0} alt='automate screenshot'/>
                     </div>
                     <div id="slide-2">
-                        <img src={image1}/>
+                        <img src={image1} alt='automate screenshot'/>
                     </div>
                     <div id="slide-3">
-                        <img src={image2}/>
+                        <img src={image2} alt='automate screenshot'/>
                     </div>
                     <div id="slide-4">
-                        <img src={image3}/>
+                        <img src={image3} alt='automate screenshot'/>
                     </div>
                     <div id="slide-5">
-                        <img src={image4}/>
+                        <img src={image4} alt='automate screenshot'/>
                     </div>
                     <div id="slide-5">
-                        <img src={image5}/>
+                        <img src={image5} alt='automate screenshot'/>
                     </div>
                     <div id="slide-5">
-                        <img src={image6}/>
+                        <img src={image6} alt='automate screenshot'/>
                     </div>
                     <div id="slide-5">
-                        <img src={image7}/>
+                        <img src={image7} alt='automate screenshot'/>
                     </div>
                     <div id="slide-5">
-                        <img src={image8}/>
+                        <img src={image8} alt='automate screenshot'/>
                     </div>
                 </div>
             </div>

@@ -2,7 +2,6 @@ import React from 'react';
 
 import './game-section.css';
 import automateLogo from '.././img/automate_logo.png';
-import gameBackground from '.././img/automate_banner.png';
 
 const GameSection = () => {
     return(
