@@ -1,10 +1,10 @@
 import React from 'react';
 import './social.css';
-import youtubeIcon from '../img/youtube_icon.png';
-import instagramIcon from '../img/instagram_icon.png';
-import mailIcon from '../img/mail_icon.png';
-import tiktokIcon from '../img/tiktok_icon.png';
-import twitterIcon from '../img/twitter_icon.png';
+import youtubeIcon from '../img/youtube_icon.webp';
+import instagramIcon from '../img/instagram_icon.webp';
+import mailIcon from '../img/mail_icon.webp';
+import tiktokIcon from '../img/tiktok_icon.webp';
+import twitterIcon from '../img/twitter_icon.webp';
 
 const Social = () => {
     return (

@@ -1,15 +1,15 @@
 import React from 'react';
 import './carousel.css';
 
-import image0 from '../img/screenshots/img0.png';
-import image1 from '../img/screenshots/img1.png';
-import image2 from '../img/screenshots/img2.png';
-import image3 from '../img/screenshots/img3.png';
-import image4 from '../img/screenshots/img4.png';
-import image5 from '../img/screenshots/img5.png';
-import image6 from '../img/screenshots/img6.png';
-import image7 from '../img/screenshots/img7.png';
-import image8 from '../img/screenshots/img8.png';
+import image0 from '../img/screenshots/img0.webp';
+import image1 from '../img/screenshots/img1.webp';
+import image2 from '../img/screenshots/img2.webp';
+import image3 from '../img/screenshots/img3.webp';
+import image4 from '../img/screenshots/img4.webp';
+import image5 from '../img/screenshots/img5.webp';
+import image6 from '../img/screenshots/img6.webp';
+import image7 from '../img/screenshots/img7.webp';
+import image8 from '../img/screenshots/img8.webp';
 
 const Carousel = () => {
     return (

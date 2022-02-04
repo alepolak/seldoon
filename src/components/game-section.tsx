@@ -1,7 +1,7 @@
 import React from 'react';
 
 import './game-section.css';
-import automateLogo from '.././img/automate_logo.png';
+import automateLogo from '.././img/automate_logo.webp';
 
 const GameSection = () => {
     return(

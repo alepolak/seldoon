@@ -17,13 +17,13 @@
 }
 
 .stars {
-    background: black url('.././img/stars.png') repeat top center;
+    background: black url('.././img/stars.webp') repeat top center;
     z-index: 1;
     animation: move-stars-back 300s linear infinite;
 }
 
 .twinkling {
-    background: transparent url('.././img/twinkling.png') repeat top center;
+    background: transparent url('.././img/twinkling.webp') repeat top center;
     z-index: 2;
     animation: move-twinkle-back 100s linear infinite;
 }

@@ -1,6 +1,6 @@
 import React from 'react';
 import './fold.css';
-import seldoonLogoWhite from '.././img/seldoon_logo_white.png';
+import seldoonLogoWhite from '.././img/seldoon_logo_white.webp';
 import Stars from './stars';
 
 
