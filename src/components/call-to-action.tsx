@@ -1,24 +1,15 @@
 import React from 'react';
 import './call-to-action.css';
+import Newsletter from './newsletter';
 
 const CallToAction = () => {
-
     const presskitFilePath = '/presskit/presskit.7z';
+ 
     return (
         <div className='section'>
             <h1> Keep in touch </h1>
             <div className='section-container'>
-                <div className='newsletter'>
-                    <h2> Newsletter </h2>
-                    <p className='message'>
-                        Want to know all the things? Announcements, behind the scenes, new games ?<br/>
-                        <strong>Subscribe to the newsletter.</strong> No spam, no passing your email address around. 
-                    </p>
-                    <form className='newsletter-subscribe'>
-                        <input className='newsletter-input' type="text" name="name" />
-                        <input className='newsletter-button' type="submit" value="SUBMIT" />
-                    </form>
-                </div>
+                <Newsletter/>
                 <div className='presskit'>
                     <h2> Presskit </h2>
                     <p className='message'>

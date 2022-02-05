@@ -9,7 +9,7 @@
     - automate logo
     - seldoon logo
 [X] Presskit functionality.
-[ ] Newsletter functionality.
+[X] Newsletter functionality.
 [ ] Add label to input.
 [X] Remove unnecesary fonts or move them to the end.
 [ ] Add preconnect (?) or dns-prefetch to:
